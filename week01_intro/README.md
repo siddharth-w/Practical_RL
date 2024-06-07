@@ -23,8 +23,8 @@
   
 
 ## Practice assignment
-Instant dive in: [__seminar_gymnasium_interface__](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/seminar_gymnasium_interface.ipynb), [__crossentropy_method__](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/crossentropy_method.ipynb),
-[__deep_crossentropy_method__](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/deep_crossentropy_method.ipynb)
+Instant dive in: [__seminar_gymnasium_interface__](https://colab.research.google.com/github/siddharth-w/Practical_RL/blob/master/week01_intro/seminar_gymnasium_interface.ipynb), [__crossentropy_method__](https://colab.research.google.com/github/siddharth-w/Practical_RL/blob/master/week01_intro/crossentropy_method.ipynb),
+[__deep_crossentropy_method__](https://colab.research.google.com/github/siddharth-w/Practical_RL/blob/master/week01_intro/deep_crossentropy_method.ipynb)
 
 * Open `seminar_gymnasium_interface.ipynb` and follow instructions from there
 * After you're done there, proceed to `crossentropy_method.ipynb`
